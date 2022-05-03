@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlbertoCanoD
 - 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning Java, Python and Web Dev
+- 🌱 I’m currently learning Python and Web Dev
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @AsdanoC on Twitter && canoalboroteo@gmail.com
 
