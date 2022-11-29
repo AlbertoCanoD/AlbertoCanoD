@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Alberto Cano
-- 👀 I’m interested in Computer Science, OSINT tools, and IOT
+- 👀 I’m interested in Computer Science, OSINT, IOT & cibersec 
 - 🌱 I’m currently learning Python 🐍
-- 📫 How to reach me @AsdanoC on Twitter && canoalboroteo@gmail.com
+- 📫 How to reach me @AsdanoC on Twitter & canoalboroteo@gmail.com
