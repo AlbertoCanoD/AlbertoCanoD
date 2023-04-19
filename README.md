@@ -1,4 +1,10 @@
-- 👋 Hi, I’m Alberto Cano
-- 👀 I’m interested in Computer Science, OSINT, IOT & cybersec 
-- 🌱 I’m currently learning Python 🐍
-- 📫 Reach me @AsdanoC on Twitter & canoalboroteo@gmail.com
+<h1 align='center'>
+  👋 Hi, I’m Alberto Cano
+</h1>
+
+<p align='center'>
+  
+  <a href="[https://www.linkedin.com/in/alexandresanlim/](https://www.linkedin.com/in/alberto-cano-delgado/)">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+</p>
