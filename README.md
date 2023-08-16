@@ -67,7 +67,12 @@
     <a><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/></a>
 
 </div>
-  
+
+</br>
+
+<div align='center'>
+  <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/64dd3c30095da82caf9dc7e4?variant=dark" alt="roadmap.sh"/></a>
+</div>
 
 <h2 align='center'>📜 Certifications & seminars</h2>
 <div align='center'>
