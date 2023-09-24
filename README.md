@@ -8,11 +8,9 @@
   </a>
 </p>
 
-<p align='center'>
-  <i>Future computer engineer eager to learn new technologies. Passionate about cybersecurity and networks.</i>
-</p>
-
----
+<h3 align='center'>
+  <i>Computer engineer eager to learn new technologies. Passionate about cybersecurity and networks.</i>
+</h3>
 
 <h2 align='center'>🔧 Technologies & Tools</h2>
 
